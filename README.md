@@ -1,4 +1,4 @@
-# Exercise python.
+# Exercise python and Javascript
 
 ### 1.Fizz Buzz:
 Write a program that displays on the console (using print) the numbers from 1 to 100 (both included and with a newline between each print), substituting the following:
